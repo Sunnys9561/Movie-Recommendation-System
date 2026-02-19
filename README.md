@@ -121,3 +121,7 @@ Deploy interactive web app using Streamlit
 Add cold-start problem handling
 
 Use movie descriptions & embeddings for better content modeling
+
+**Resume Impact Statement**
+
+Designed and implemented a Hybrid Movie Recommendation System integrating Content-Based Filtering and SVD-based Collaborative Filtering. Improved personalization by modeling latent user-movie interactions and evaluated performance using RMSE.
